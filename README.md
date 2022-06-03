@@ -1,6 +1,6 @@
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YlanGarnier&show_icons=true&theme=radical" height="250px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YlanGarnier&langs_count=8&theme=radical" height="250px">
+  <img src="https://github-readme-stats.vercel.app/api?username=YlanGarnier&show_icons=true&count_private=true&theme=radical" height="167px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YlanGarnier&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical" height="167px">
   </br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
