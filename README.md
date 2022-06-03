@@ -1,4 +1,9 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YlanGarnier&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YlanGarnier&langs_count=8&theme=radical)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YlanGarnier&show_icons=true&theme=radical" height="280px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YlanGarnier&langs_count=8&theme=radical" height="300px">
+  </br>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
 
 ### Technical Competencies :
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
